@@ -25,8 +25,8 @@ A modern, fast, and minimal starter template using:
 ### 1. Clone the template
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Beakii/Vite-React-Template.git
+cd Vite-React-Template
 ```
 
 ### 2. Install dependencies
