@@ -53,31 +53,12 @@ Your app should now be running at [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## Project Structure
-
-```
-├── public/
-├── src/
-│   ├── components/   # Reusable UI components (including Shadcn UI components)
-│   ├── pages/        # Route components/pages
-│   ├── styles/       # TailwindCSS & global styles
-│   ├── App.tsx
-│   └── main.tsx
-├── tailwind.config.ts
-├── postcss.config.cjs
-├── vite.config.ts
-└── README.md
-```
-
----
-
 ## Setup Details
 
 - **Vite** for instant hot module replacement and fast builds.
 - **SWC** compiler enabled for ultra-fast TypeScript/JSX transformation.
 - **TailwindCSS** configured via `tailwind.config.ts`.
 - **Shadcn UI** installed and initialized (`npx shadcn-ui init`).
-- **PostCSS** configured for Tailwind and autoprefixing.
 
 ---
 
